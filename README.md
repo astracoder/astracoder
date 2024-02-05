@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm João "Drazic" Rosa</h1>
 <h3 align="center">A student and ❤ of programming.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=astracoder&label=Profile%20views&color=0e75b6&style=flat" alt="astracoder" /> </p>
-
 - 🌱 I’m currently learning **JS, React.JS, Node.JS, Tailwind CSS, MongoDB, Git, Firebase...**
 
 - 🎯 Goals **Full Stack Developer - Master English and Russian**
