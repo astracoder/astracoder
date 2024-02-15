@@ -7,6 +7,11 @@
 
 - ⚡ Fun fact **Sometimes I like to read from bottom to top**
 
+<p align="center">
+          <img width="500" height="500" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phoenix/phoenix-original.svg" />
+</p>
+          
+
 <hr/>
 <h3 align="left">Some technologies that I have mastered and am learning: </h3>
 
