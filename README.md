@@ -8,7 +8,7 @@
 - ⚡ Fun fact **Sometimes I like to read from bottom to top**
 
 <p align="center">
-            <img width="350" height="350" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vyper/vyper-original.svg" />
+            <img width="350" height="350" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 </p>
           
 
