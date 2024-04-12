@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm João "Drazic" Rosa</h1>
 <h3 align="center">A student and ❤ of programming.</h3>
 
-- 🌱 I’m currently learning **JS, React.JS, Node.JS, Tailwind CSS, MongoDB, Git, Firebase...**
+- 🌱 I’m currently learning **JS, React.JS, Node.JS, Tailwind CSS, PostgreSQL, Git...**
 
 - 🎯 Goals **Full Stack Developer - Master English and Russian**
 
